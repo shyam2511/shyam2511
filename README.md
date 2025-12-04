@@ -7,7 +7,7 @@
 
 - ❤️ I love working on anything related to AI, and building fun experiments on agentic Apps
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/shyam2511/issues)
+- 💬 Ask me about anything [here](https://github.com/shyam2511/issues)
 
 
 
