@@ -5,4 +5,4 @@
 
 - 💼 Backlend Engineer at [Oracle](http://oracle.com/)
 
-- ❤️ I love working on anything related to AI, and building fun experiments on agentic Apps
+- ❤️ I love working on anything related to AI, and building fun applications while experimenting on Agentic AI and LLMs
