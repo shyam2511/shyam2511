@@ -4,7 +4,7 @@
 
 - 💼 Backend & GenAI Engineer at [Oracle](http://oracle.com/)
 
-- ❤️ I love working on anything related to AI, and building fun applications while experimenting on Agentic AI and LLMs
+- ❤️ I love working on anything that's fun and niche, building applications while experimenting on Agentic AI and LLMs
 
 <br/>
 
