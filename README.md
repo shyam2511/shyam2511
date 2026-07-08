@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💼 Backend & GenAI Engineer at [Oracle](http://oracle.com/)
+- 💼 Cloud Infra, Backend & Agentic AI at [Oracle](http://oracle.com/)
 
 - A Computer Science grad from BITS Pilani, currently building the future of Database as a Service (DBaaS) at Oracle. My work bridges the gap between robust backend engineering and the next generation of AI orchestration.
 
