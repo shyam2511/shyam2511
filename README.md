@@ -17,7 +17,8 @@ Backend Engineering: Developing scalable services primarily in Java, for the Dat
 I specialize in moving AI beyond prototypes into compliant, production-ready enterprise ecosystems.
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shyam2511&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=shyam2511&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /> 
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" height="150" alt="Jokes Card" />
 
 <br/>
 
@@ -25,6 +26,6 @@ I specialize in moving AI beyond prototypes into compliant, production-ready ent
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyam2511&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://readme-jokes.vercel.app/api?theme=dracula" height="150" alt="Jokes Card" />
+
 
 
